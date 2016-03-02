@@ -38,9 +38,11 @@ nav li a {
 	color: #f9e42e;
 }
 
+body{
+	background-color: #f0efef;
+}
 
 #container{
-	background-color: #f0efef;
 	color: #121212;
 	padding: 0% 15%;
 } 
